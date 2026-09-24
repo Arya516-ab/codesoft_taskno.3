@@ -24,19 +24,3 @@ calculator-app/
 ├── script.js    # Calculator logic
 └── README.md    # Project documentation
 ```
-
-## Usage
-
-1. Clone or download this repository.
-2. Open `index.html` in any web browser — no build step or dependencies needed.
-
-## Deploying with GitHub Pages
-
-1. Push this folder to a GitHub repository.
-2. Go to **Settings > Pages** in your repo.
-3. Under "Branch," select `main` (or your default branch) and `/root`, then save.
-4. Your calculator will be live at `https://<your-username>.github.io/<repo-name>/`.
-
-## License
-
-Free to use and modify for personal or educational purposes.
